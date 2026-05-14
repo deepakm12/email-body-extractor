@@ -1,0 +1,36 @@
+{
+    "files.exclude": {
+        "**/.DS_Store": true,
+        ".dccache": true,
+        ".venv": true,
+        "**/__pycache__": true,
+        "**/.mypy_cache": true,
+        "**/.pytest_cache": true,
+    },
+    "python.analysis.typeCheckingMode": "strict",
+    "python.terminal.activateEnvironment": false,
+    "python.terminal.useEnvFile": true,
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": false,
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.rulers": [
+            120
+        ],
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:poetry",
+    "python-envs.defaultPackageManager": "ms-python.python:poetry",
+    "python-envs.pythonProjects": [
+        {
+            "path": ".",
+            "envManager": "ms-python.python:poetry",
+            "packageManager": "ms-python.python:poetry"
+        }
+    ],
+    "dependi.python.lockFileEnabled": true,
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+}
