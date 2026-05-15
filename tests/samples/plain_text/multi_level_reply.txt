@@ -1,0 +1,15 @@
+Perfect, see you then!
+
+Best,
+Carol
+
+On Monday, Apr 7, 2025 at 3:00 PM Bob <bob@example.com> wrote:
+> Confirmed, let's meet at 2 PM in the main lobby.
+>
+> On Monday, Apr 7, 2025 at 2:00 PM Alice <alice@example.com> wrote:
+> > Hi all,
+> >
+> > Can we move the sync to 2 PM? I have a conflict at 3 PM.
+> >
+> > Thanks,
+> > Alice

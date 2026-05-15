@@ -1,0 +1,15 @@
+Hi Bob,
+
+Thanks for the heads up. I'll review it today and send you feedback by end of day.
+
+Cheers,
+Alice
+
+On Monday, April 7, 2025 at 10:00 AM Bob <bob@example.com> wrote:
+> Hi Alice,
+>
+> I wanted to let you know that the Q1 report has been finalized and is ready
+> for your review. Please let me know if you have any questions.
+>
+> Kind regards,
+> Bob

@@ -1,0 +1,5 @@
+--
+Bob Smith
+Senior Engineer | Acme Corp
+bob.smith@acme.com
++1 (555) 987-6543

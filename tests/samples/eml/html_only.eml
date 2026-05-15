@@ -1,0 +1,20 @@
+From: newsletter@company.com
+To: alice@example.com
+Date: Wed, 9 Apr 2025 09:00:00 +0000
+Subject: April Product Newsletter
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<html>
+<body>
+  <h1>April Newsletter</h1>
+  <p>Welcome to our monthly newsletter! This month we are excited to announce:</p>
+  <ul>
+    <li>New dashboard features available next week</li>
+    <li>Performance improvements reducing load times by 40%</li>
+    <li>Upcoming webinar on April 20 covering new integrations</li>
+  </ul>
+  <p>We hope you enjoy these updates. As always, your feedback is welcome.</p>
+  <p>The Product Team</p>
+</body>
+</html>

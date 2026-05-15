@@ -1,0 +1,39 @@
+From: bob@example.com
+To: alice@example.com
+Date: Tue, 8 Apr 2025 14:30:00 +0000
+Subject: Q1 Financial Summary
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============boundary123=="
+
+--===============boundary123==
+Content-Type: text/plain; charset=utf-8
+
+Hi Alice,
+
+Please find the Q1 financial summary below. Revenue is up 12% year over year, and operating costs have been reduced by 5%.
+
+Key highlights:
+- Total revenue: $4.2M (up 12% YoY)
+- Operating margin: 18% (up from 15%)
+- New customer acquisitions: 142
+
+Regards,
+Bob
+
+--===============boundary123==
+Content-Type: text/html; charset=utf-8
+
+<html>
+<body>
+  <p>Hi Alice,</p>
+  <p>Please find the Q1 financial summary below. Revenue is up <strong>12%</strong> year over year, and operating costs have been reduced by 5%.</p>
+  <p><strong>Key highlights:</strong></p>
+  <ul>
+    <li>Total revenue: $4.2M (up 12% YoY)</li>
+    <li>Operating margin: 18% (up from 15%)</li>
+    <li>New customer acquisitions: 142</li>
+  </ul>
+  <p>Regards,<br/>Bob</p>
+</body>
+</html>
+--===============boundary123==--

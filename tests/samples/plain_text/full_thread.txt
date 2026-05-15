@@ -1,0 +1,19 @@
+Hi Bob,
+
+Thanks for the update. I'll review the terms and get back to you by EOD Friday.
+
+Regards,
+Alice
+
+On Thursday, April 3, 2025 at 2:30 PM Bob <bob@acme.com> wrote:
+> Alice,
+>
+> Please find attached the updated contract terms for your review. We need
+> your sign-off before the end of the month.
+>
+> Best,
+> Bob Smith
+> Legal Counsel | Acme Corp
+
+CONFIDENTIALITY NOTICE:
+This communication and any attachments may contain privileged or confidential information. If you are not the intended recipient, please notify the sender immediately and destroy all copies of this message.
