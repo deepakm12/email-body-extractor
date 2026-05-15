@@ -1,0 +1,143 @@
+# Project-Specific
+
+.dccache
+.env*
+!.env.example
+**/.env
+**/backend.tf
+*tfplan*
+**/.idea
+*/.devpod-internal
+docs/superpowers/
+
+# Temporary files
+
+tmp/
+temp/
+*.tmp
+**/.tmp
+**/.temp
+
+# VS Code
+# Allow user tasks/snippets but ignore everything else
+
+.vscode/*
+!.vscode/tasks.json
+!.vscode/ai-services-backend.code-workspace
+!.vscode/*.code-snippets
+
+# Local history / extensions
+
+.history/
+*.vsix
+
+# Python
+# Bytecode / compiled / cache
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packaging / build folders
+
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+develop-eggs/
+*.egg-info/
+*.egg
+.installed.cfg
+MANIFEST
+
+# PyInstaller
+
+*.spec
+*.manifest
+
+# Logs
+
+pip-log.txt
+pip-delete-this-directory.txt
+*.log
+
+# Coverage / test
+
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache/
+.nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# PyBuilder
+
+.pybuilder/
+target/
+
+# Notebooks
+
+.ipynb_checkpoints/
+
+# IPython
+
+profile_default/
+ipython_config.py
+
+# Poetry / pipenv / pdm
+
+.pdm.toml
+__pypackages__/
+
+# Virtualenvs
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Typing / analysis
+
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+cython_debug/
+
+# PyCharm (JetBrains)
+# Prefer global ignore
+
+.idea/
+
+# OS / editor junk
+
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# agent-forge runtime artifacts
+runs/*.jsonl
+
+# Runtime data
+extraction_history.json
